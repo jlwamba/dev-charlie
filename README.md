@@ -1,7 +1,7 @@
 # angular
 ```angular.html``` helps us create a controller to get data using code.
 
-<script>
+```javascript
 window.app = angular.module('hi-angular,[]');
 app.controller('MainController', function($scope, $http ){
     $scope.user = null;
@@ -9,11 +9,10 @@ app.controller('MainController', function($scope, $http ){
     $http.get('/user').then(response => {
         console.log(response.data);
     });
-
 });
-
-</script>
 ```
 
-from the response of the ```('/user'), the will return the ```user.json```
+
+
+from the response of the ```('/user')```, this will return the ```user.json```
 
