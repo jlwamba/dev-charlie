@@ -10,7 +10,7 @@ app.controller('MainController', function($scope, $http ){
         console.log(response.data);
     });
 });
-```
+``
 
 
 
