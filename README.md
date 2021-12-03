@@ -14,5 +14,5 @@ app.controller('MainController', function($scope, $http ){
 ```
 
 
-from the response of the ```('/user'), the will return the ```user.json```
+from the response of the ```('/user')```, this will return the ```user.json```
 
