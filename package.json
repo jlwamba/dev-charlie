@@ -13,5 +13,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "```angular.html``` helps us create a controller to get data using code.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlwamba/dev-charlie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jlwamba/dev-charlie/issues"
+  },
+  "homepage": "https://github.com/jlwamba/dev-charlie#readme"
 }
