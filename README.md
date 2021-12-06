@@ -23,7 +23,7 @@ from the response of the ```('/user')```, this will return the ```user.json``` t
 ```javscript
 {
     "name": "Jerry Lwamba",
-    "repo": Https://github.com/jlwamba
+    "repo": Https://www.github.com/jlwamba
 }
 
 ```` 
